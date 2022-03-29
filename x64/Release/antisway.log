@@ -1,0 +1,8 @@
+﻿     Creating library F:\MyProjects\antisway\antisway\x64\Release\antisway.lib and object F:\MyProjects\antisway\antisway\x64\Release\antisway.exp
+  Generating code
+  5 of 171 functions ( 2.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  antisway.vcxproj -> F:\MyProjects\antisway\antisway\x64\Release\antisway.dll
+  antisway.vcxproj -> F:\MyProjects\antisway\antisway\x64\Release\antisway.pdb (Full PDB)
